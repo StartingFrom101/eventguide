@@ -9,3 +9,5 @@ android/local.properties
 android/key.properties
 ios/Flutter/Generated.xcconfig
 ios/Flutter/flutter_export_environment.sh
+lib/firebase_options.dart
+android/app/google-services.json
